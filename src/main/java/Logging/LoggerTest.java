@@ -1,4 +1,5 @@
-//Coomiit
+
+
 package Logging;
 
 import org.apache.log4j.Logger;
